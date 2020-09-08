@@ -2,9 +2,9 @@
 An interactive RGB color guessing game.
 
 # How to Play:
-1.Choose mode to play on (Easy/Hard)
-2.three numbers signifying a RGB color is provided to you
-3.upto to the user to select the right colored box among the different colored boxes shown
+* Choose mode to play on (Easy/Hard) 
+* three numbers signifying a RGB color is provided to you
+* upto to the user to select the right colored box among the different colored boxes shown
 
 # Built with:
 
